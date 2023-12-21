@@ -1,0 +1,11 @@
+customtkinter:    https://github.com/TomSchimansky/CustomTkinter/blob/master/examples/complex_example.py#L147
+
+https://medium.com/@fareedkhandev/modern-gui-using-tkinter-12da0b983e22
+
+https://www.google.com/search?q=rectangle+d%27or&sca_esv=592766398&rlz=1C1GCEA_enFR1075FR1076&tbm=isch&source=iu&ictx=1&vet=1&fir=jBRLzkTIhAQGFM%252C50IK_V0osPEBZM%252C_%253BsaItCs9wC4VZXM%252Co0t8DMcldDVtVM%252C_%253Bcz0iq4dqAZXWaM%252ClUN6kecebRhk1M%252C_%253B3O81Bg-B4p8F9M%252CJKVWl0hcWzdgWM%252C_%253BN9SwsftxKdhUzM%252CgnscpINgjH-QwM%252C_&usg=AI4_-kSW8C3E5QwFimK9xH_0Qz6qHlF30g&sa=X&sqi=2&ved=2ahUKEwiditvVjqCDAxWcVaQEHcYzDhUQ_h16BAhWEAE#imgrc=cz0iq4dqAZXWaM
+
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+
+https://www.codepuzzle.io/@/JNBDLVAM
+
+https://apod.nasa.gov/apod/ap150513.html
